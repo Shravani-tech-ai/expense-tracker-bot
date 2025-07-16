@@ -1,0 +1,9 @@
+langchain
+openai
+tiktoken
+python-dotenv
+dateparser
+sqlalchemy 
+psycopg2-binary
+faiss-cpu
+
